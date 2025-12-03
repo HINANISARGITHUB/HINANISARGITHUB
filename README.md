@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/P7RZ8jN.png" width="100%" alt="banner"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1lY_fsEtrTIiSEJLoc1FhB&ust=1764832602181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD2n-_xoJEDFQAAAAAdAAAAABAE" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">✨ Hi, I'm <span style="color:#00AEEF;">Hina Nisar</span> ✨</h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1lY_fsEtrTIiSEJLoc1FhB&ust=1764832602181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD2n-_xoJEDFQAAAAAdAAAAABAEsize=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=Frontend+Developer;Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=Frontend+Developer;Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
 </p>
 
 ---
@@ -73,3 +73,7 @@
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
+
+
+
+
