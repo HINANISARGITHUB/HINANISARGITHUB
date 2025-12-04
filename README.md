@@ -61,14 +61,12 @@
     src="./assests/topLanguage.png" 
     width="48%" 
     height="190"
- 
     alt="GitHub Stats"
   />
   <img 
-    src="./assests/codegif-image.gif" 
+  src="./assests/codegif-image.gif" 
   width="48%" 
   height="190"
-  
   alt="GitHub Streak"
   />
 </p>
