@@ -67,13 +67,13 @@
 ---
 <p align="center">
    <img 
-    src="./assests/" 
+    src="./assests/topLanguage.png" 
     width="48%" 
      height="190"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" 
+    src="./assests/codegif-image.gif" 
     width="48%" 
   height="190"
     alt="GitHub Streak"
