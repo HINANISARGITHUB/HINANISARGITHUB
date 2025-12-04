@@ -57,16 +57,9 @@
 
 ---
 
-## 🐍 **GitHub Contribution Snakes (Customized!)**
 
-<p align="center">
-  <!-- Snake 1 -->
-  <img 
-    src="https://raw.githubusercontent.com/HINANISARGITHUB/HINANISARGITHUB/output/github-contribution-grid-snake-dark.svg" 
-    width="500" 
-    alt="snake"
-  />
-</p>
+
+
 
 <p align="center">
   <!-- Snake 2 -->
@@ -77,7 +70,7 @@
   />
 </p>
 
-*(If you want both snakes side-by-side or with borders/shadows, just tell me!)* 
+
 
 
 
