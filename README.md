@@ -48,30 +48,29 @@
 
 ---
 
-
-## 📊 **GitHub Stats — Hina Nisar**
+## 📊 GitHub Stats — Hina Nisar
 
 <p align="center">
-  <!-- Stats Card -->
+  <!-- GitHub Stats -->
   <img 
-    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/overview.svg?username=HINANISARGITHUB&show_icons=true&theme=radical&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=radical&count_private=true&hide_border=false" 
     width="48%" 
-    alt="Hina Stats"
+    alt="GitHub Stats"
   />
 
-  <!-- Streak Card -->
+  <!-- Streak Stats -->
   <img 
-    src="https://raw.githubusercontent.com/anuraghazra/github-readme-streak-stats/master/generated/streak.svg?user=HINANISARGITHUB&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&hide_border=false" 
     width="48%" 
-    alt="Hina Streak"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
+  <!-- Top Languages -->
   <img 
-    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/top-langs.svg?username=HINANISARGITHUB&layout=compact&theme=radical" 
-    width="42%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=radical&hide_border=false" 
+    width="40%" 
     alt="Top Languages"
   />
 </p>
@@ -80,21 +79,10 @@
   <!-- Contribution Snake -->
   <img 
     src="https://raw.githubusercontent.com/HINANISARGITHUB/HINANISARGITHUB/output/github-contribution-grid-snake-dark.svg" 
-    width="500" 
+    width="450" 
     alt="Contribution Snake"
   />
 </p>
-
-<p align="center">
-  <!-- Fun Coding GIF -->
-  <img 
-    src="https://raw.githubusercontent.com/innolitics/coding-gif/main/coding.gif" 
-    width="300" 
-    alt="Coding Animation"
-  />
-</p>
-
-
 
 
 ---
