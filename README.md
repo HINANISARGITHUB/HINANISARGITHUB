@@ -48,10 +48,12 @@
 
 ---
 <p align="center"> 
-<img src="./assests/statsImage1.gif theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" 
+<img src="./assests/statsImage1.gif" 
 width="48%" 
 height="190" 
-alt="GitHub Stats" /> 
+alt="GitHub Stats"
+style="border-radius:15;
+/> 
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
@@ -62,14 +64,16 @@ alt="GitHub Stats" />
    <img 
     src="./assests/topLanguage.png" 
     width="48%" 
-     height="190"
+    height="190"
+    style="border-radius:15;
     alt="GitHub Stats"
   />
   <img 
     src="./assests/codegif-image.gif" 
-    width="48%" 
+  width="48%" 
   height="190"
-    alt="GitHub Streak"
+  style="border-radius:15;
+  alt="GitHub Streak"
   />
 </p>
 
