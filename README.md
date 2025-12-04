@@ -48,13 +48,13 @@
 
 ---
 
-## 📊 GitHub Stats — Hina Nisar
+
 
 <p align="center">
    <img 
     src="./assests/statsImage1.gif" 
     width="48%" 
-     height="160"
+     height="190"
     alt="GitHub Stats"
   />
   <img 
@@ -64,24 +64,23 @@
   />
 </p>
 
+---
 <p align="center">
-  <img 
-    src="./assests/topLanguage.png" 
+   <img 
+    src="./assests/" 
     width="48%" 
-    height="190"
-    alt="Top Languages"
+     height="190"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" 
+    width="48%" 
+  height="190"
+    alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <!-- Cool animated coding GIF -->
-  <img 
-    src="./assests/codegif-image.gif" 
-    width="48%" 
-    height="190"
-    alt="Coding GIF"
-  />
-</p>
+
 
 
 
