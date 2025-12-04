@@ -52,7 +52,7 @@
 width="48%" 
 height="190" 
 alt="GitHub Stats"
-style="border-radius:15;
+
 /> 
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" />
@@ -65,14 +65,14 @@ style="border-radius:15;
     src="./assests/topLanguage.png" 
     width="48%" 
     height="190"
-    style="border-radius:15;
+ 
     alt="GitHub Stats"
   />
   <img 
     src="./assests/codegif-image.gif" 
   width="48%" 
   height="190"
-  style="border-radius:15;
+  border-radius:"15";
   alt="GitHub Streak"
   />
 </p>
