@@ -53,8 +53,8 @@
 <p align="center">
    <img 
     src="./assests/statsImage1.gif" 
-    width="30%" 
-     height="300"
+    width="48%" 
+     height="400"
     alt="GitHub Stats"
   />
   <img 
