@@ -54,7 +54,7 @@
    <img 
     src="./assests/statsImage1.gif" 
     width="48%" 
-     height="280"
+     height="180"
     alt="GitHub Stats"
   />
   <img 
