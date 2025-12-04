@@ -6,7 +6,7 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#00AEEF;">Hina Nisar</span> ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=Frontend+Developer;Creative+UI/UX+Designer;React+%7C+Next.js+Developer; Turning+Designs+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=Frontend+Developer;Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
 </p>
 
 ---
