@@ -47,31 +47,13 @@
 
 
 ---
-
-
-
-<p align="center">
-
-  <!-- First Image with Radius -->
-  <div style="display:inline-block; overflow:hidden; border-radius:15px; width:48%; vertical-align:top;">
-    <img 
-      src="./assests/statsImage1.gif" 
-      width="100%" 
-      height="190"
-      style="display:block;" 
-      alt="GitHub Stats"
-    />
-  </div>
-
-  <!-- Second Image -->
-  <div style="display:inline-block; width:48%; vertical-align:top;">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" 
-      width="100%" 
-      alt="GitHub Streak"
-    />
-  </div>
-
+<p align="center"> 
+<img src="./assests/statsImage1.gif theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" 
+width="48%" 
+height="190" 
+alt="GitHub Stats" /> 
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 
