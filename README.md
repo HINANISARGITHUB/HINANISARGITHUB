@@ -72,7 +72,7 @@ alt="GitHub Stats"
     src="./assests/codegif-image.gif" 
   width="48%" 
   height="190"
-  border-radius:"15";
+  
   alt="GitHub Streak"
   />
 </p>
