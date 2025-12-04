@@ -1,7 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="" width="100%" alt="banner"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+    width="100%" 
+    alt="banner"
+  />
 </p>
+
 
 <h1 align="center">✨ Hi, I'm <span style="color:#00AEEF;">Hina Nisar</span> ✨</h1>
 
