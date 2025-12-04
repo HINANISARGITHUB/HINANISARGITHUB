@@ -52,7 +52,7 @@
 
 <p align="center">
    <img 
-    src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=radical&border_radius=15&hide_border=false" 
+    src="./assests/statsImage1.gif" 
     width="48%" 
     alt="GitHub Stats"
   />
