@@ -57,7 +57,28 @@
 
 ---
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+## 🐍 **GitHub Contribution Snakes (Customized!)**
+
+<p align="center">
+  <!-- Snake 1 -->
+  <img 
+    src="https://raw.githubusercontent.com/HINANISARGITHUB/HINANISARGITHUB/output/github-contribution-grid-snake-dark.svg" 
+    width="500" 
+    alt="snake"
+  />
+</p>
+
+<p align="center">
+  <!-- Snake 2 -->
+  <img 
+    src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" 
+    width="500" 
+    alt="snake-2"
+  />
+</p>
+
+*(If you want both snakes side-by-side or with borders/shadows, just tell me!)* 
+
 
 
 
