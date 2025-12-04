@@ -54,12 +54,12 @@
    <img 
     src="./assests/statsImage1.gif" 
     width="48%" 
-     height="180"
+     height="190"
     alt="GitHub Stats"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" 
-    width="48%" 
+    width="80%" 
     alt="GitHub Streak"
   />
 </p>
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/HJyQcqN.gif" width="300"/>
+  <img src="assests/" width="800"/>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
