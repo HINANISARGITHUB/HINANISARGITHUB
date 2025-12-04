@@ -66,7 +66,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=radical&border_radius=15&hide_border=false" 
+    src="assests/topLanguage.png" 
     width="40%" 
     alt="Top Languages"
   />
