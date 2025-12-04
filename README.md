@@ -66,7 +66,7 @@
 
 <p align="center">
   <img 
-    src="assests/topLanguage.png" 
+    src="./assests/topLanguage.png" 
     width="48%" 
     height="190"
     alt="Top Languages"
@@ -76,8 +76,9 @@
 <p align="center">
   <!-- Cool animated coding GIF -->
   <img 
-    src="https://pixabay.com/videos/download/video-9038_640.gif" 
-    width="450" 
+    src="./assests/codegif-image.gif" 
+    width="48%" 
+    height="190"
     alt="Coding GIF"
   />
 </p>
