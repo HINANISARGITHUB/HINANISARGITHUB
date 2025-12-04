@@ -105,15 +105,19 @@
 
 ## 🤝 **Connect With Me**
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.linkedin.com/in/hina-nisar-a515492b5"><img src="https://skillicons.dev/icons?i=linkedin" width="45" target="_blank"/>
+  </a>
+
+ <a href="mailto:hinanisar7860@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" target="_blank"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="assests/topHero-image.gif" width="600"/>
+  <img src="assests/topHero-image.gif" width="500"/>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
