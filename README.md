@@ -51,9 +51,30 @@
 ## 📊 **GitHub Stats — Hina Nisar**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical" />
+  <!-- Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12" 
+    width="48%" 
+    alt="Hina Stats"
+  />
+
+  <!-- Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=tokyonight&hide_border=false&border_radius=12" 
+    width="48%" 
+    alt="Hina Streak"
+  />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" 
+    width="38%" 
+    alt="Top Languages"
+  />
+</p>
+
 
 ---
 
