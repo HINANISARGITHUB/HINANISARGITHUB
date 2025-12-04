@@ -44,45 +44,42 @@
 | **🛒 Ecommerce UI** | Modern product grid + animations | Live Demo • Repo |
 | **🎬 Movie Explorer** | React-based movie search app | Live Demo • Repo |
 
-*(Share your real links and I will insert them!)*
+
 
 ---
 
 ## 📊 GitHub Stats — Hina Nisar
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=radical&count_private=true&hide_border=false" 
+   <img 
+    src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=radical&border_radius=15&hide_border=false" 
     width="48%" 
     alt="GitHub Stats"
   />
-
-  <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" 
     width="48%" 
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=radical&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=radical&border_radius=15&hide_border=false" 
     width="40%" 
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <!-- Contribution Snake -->
+  <!-- Cool animated coding GIF -->
   <img 
-    src="https://raw.githubusercontent.com/HINANISARGITHUB/HINANISARGITHUB/output/github-contribution-grid-snake-dark.svg" 
+    src="https://pixabay.com/videos/download/video-9038_640.gif" 
     width="450" 
-    alt="Contribution Snake"
+    alt="Coding GIF"
   />
 </p>
+
 
 
 ---
