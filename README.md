@@ -60,10 +60,16 @@
 ## 🐍 **GitHub Contribution Snake (Customized!)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HINANISARGITHUB/HINANISARGITHUB/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/HINANISARGITHUB/HINANISARGITHUB/output/github-contribution-grid-snake-dark.svg" 
+    width="500" 
+    alt="snake"
+  />
 </p>
 
-*(If your snake doesn’t appear yet, I will create the workflow for you — just tell me!)*
+*(If your snake doesn’t appear yet, I will create the workflow for you — just tell me!)* 
+
+
 
 ---
 
