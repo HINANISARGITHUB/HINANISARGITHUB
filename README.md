@@ -59,7 +59,7 @@
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" 
-    width="80%" 
+    width="48%" 
     alt="GitHub Streak"
   />
 </p>
@@ -67,7 +67,7 @@
 <p align="center">
   <img 
     src="assests/topLanguage.png" 
-    width="40%" 
+    width="80%" 
     alt="Top Languages"
   />
 </p>
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="assests/" width="800"/>
+  <img src="assests/topHero-image.gif" width="800"/>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
