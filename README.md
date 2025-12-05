@@ -1,11 +1,5 @@
 <!-- ===== HEADER ===== -->
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
-    width="400" 
-    alt="banner" 
-  />
-</p>
+
 
 <h1 align="center">
   ✨ Hi, I'm <span style="color:#00AEEF;">Hina Nisar</span> ✨
@@ -19,6 +13,7 @@
 <table>
 <tr>
 <td width="60%">
+<br>
 
 ## 🚀 **About Me**
 
@@ -31,21 +26,25 @@
 </td>
 
 <td width="40%" align="center">
+ <p align="center">
   <img 
-    src="./assests/topHero-image.gif" 
-    width="250" 
-    style="border-radius: 15px;" 
+    src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+    width="400" 
+    alt="banner" 
   />
+</p>
 </td>
 
 </tr>
 </table>
+<br><br>
 
 ## 🛠️ **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,git,github,vscode" />
 </p>
+<br><br>
 
 ## 🌟 **Featured Projects**
 
@@ -56,7 +55,7 @@
 | **🎬 Movie Explorer** | React movie search app | Live Demo • Repo |
 
 <!-- ==== STATS SECTION WITH BETTER ALIGNMENT ==== -->
-
+<br>
 <p align="center">
   <img src="./assests/statsImage1.gif" width="48%" height="190" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" />
@@ -67,12 +66,16 @@
   <img src="./assests/codegif-image.gif" width="48%" height="190" alt="GitHub Code GIF" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" 
        width="620" 
        height="520" 
        alt="snake-2" />
 </p>
+
+<br>
 
 ## 🤝 **Connect With Me**
 
@@ -83,6 +86,11 @@
   <a href="mailto:hinanisar7860@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
+</p>
+
+<br>
+<p align="center">
+  <img src="assests/topHero-image.gif" width="500"/>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
