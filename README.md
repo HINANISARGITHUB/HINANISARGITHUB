@@ -92,7 +92,7 @@
 
 
 
----
+
 
 ## 🤝 **Connect With Me**
 <p align="center">
@@ -105,7 +105,7 @@
 
 </p>
 
----
+
 
 <p align="center">
   <img src="assests/topHero-image.gif" width="500"/>
