@@ -57,13 +57,7 @@
 
 ---
 <p align="center">
-   <img 
-    src="./assests/topLanguage.png" 
-    width="48%" 
-    height="190"
-    alt="GitHub Stats"
-     style="border-radius: 15px"
-  />
+   <img src="./assests/topLanguage.png" width="48%" height="190" alt="GitHub Stats style="border-radius:15px; overflow:hidden;"/>
   <img 
   src="./assests/codegif-image.gif" 
   width="48%" 
