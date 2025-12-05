@@ -7,7 +7,6 @@
   />
 </p>
 
-
 <h1 align="center">✨ Hi, I'm <span style="color:#00AEEF;">Hina Nisar</span> ✨</h1>
 
 <p align="center">
@@ -16,15 +15,26 @@
   />
 </p>
 
-
 ---
 
-## 🚀 **About Me**
-- 💙 Passionate **Frontend Developer**
-- 🎨 Love building **modern, clean & responsive UI**
-- ⚡ Skilled in **React, Next.js, Tailwind, Flowbite**
-- 📱 Focused on **pixel-perfect design**
-- 🌟 Creative vision + strong aesthetic sense
+## 🚀 **About Me + Hero**
+<table width="100%">
+<tr>
+<td width="60%">
+
+- 💙 Passionate **Frontend Developer**  
+- 🎨 Love building **modern, clean & responsive UI**  
+- ⚡ Skilled in **React, Next.js, Tailwind, Flowbite**  
+- 📱 Focused on **pixel-perfect design**  
+- 🌟 Creative vision + strong aesthetic sense  
+
+</td>
+
+<td width="40%" align="center">
+  <img src="assests/topHero-image.gif" width="250" style="border-radius:15px;" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,73 +50,83 @@
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| **🏥 Medical Website UI** | A fully responsive medical website using Tailwind, Flowbite & Tailblocks | Live Demo (Your Link) • Repo (Your Link) |
+| **🏥 Medical Website UI** | Responsive medical UI using Tailwind, Flowbite & Tailblocks | Live Demo • Repo |
 | **🛒 Ecommerce UI** | Modern product grid + animations | Live Demo • Repo |
 | **🎬 Movie Explorer** | React-based movie search app | Live Demo • Repo |
 
-
-
 ---
-<p align="center"> 
-  <img src="./assests/statsImage1.gif" 
-    width="48%" 
-    height="190"
-    alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
 
----
+## 📊 **GitHub Stats**
+
 <p align="center">
-   <img src="./assests/topLanguage.png" width="48%" height="190" alt="GitHub Stats style="border-radius:15px; overflow:hidden;"/>
   <img 
-  src="./assests/codegif-image.gif" 
-  width="48%" 
-  height="190"
-  alt="GitHub Streak"
+    src="./assests/statsImage1.gif"
+    width="48%" 
+    height="190" 
+    style="border-radius:15px;"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=radical&border_radius=15&hide_border=false"
+    width="48%" 
   />
 </p>
 
-
-
-
-
 ---
 
+<p align="center">
+  <img 
+    src="./assests/topLanguage.png" 
+    width="48%" 
+    height="190"
+    style="border-radius:15px;"
+  />
+
+  <img 
+    src="./assests/codegif-image.gif" 
+    width="48%" 
+    height="190"
+    style="border-radius:15px;"
+  />
+</p>
+
+---
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
     width="620"
-    height="520"
     alt="snake-2"
   />
 </p>
 
-
-
-
-
-
-
+---
 
 ## 🤝 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/hina-nisar-a515492b5"><img src="https://skillicons.dev/icons?i=linkedin" width="45" target="_blank"/>
+  <a href="https://www.linkedin.com/in/hina-nisar-a515492b5">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-
- <a href="mailto:hinanisar7860@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" target="_blank"/>
-</a>
-
-</p>
-
-
-
-<p align="center">
-  <img src="assests/topHero-image.gif" width="500"/>
+  <a href="mailto:hinanisar7860@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
