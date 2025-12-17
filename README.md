@@ -58,7 +58,7 @@
 <br>
 <p align="center">
   <img src="./assests/statsImage1.gif" width="48%" height="190" alt="GitHub Stats" />
-  <img src="./assests/statsImage1.gif" width="48%" height="190" alt="GitHub Stats" />
+  <img src="./assests/stats-2.gif" width="48%" height="190" alt="GitHub Stats" />
 </p>
 
 <p align="center">
