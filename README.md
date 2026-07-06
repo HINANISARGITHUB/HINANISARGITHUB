@@ -64,9 +64,9 @@
   <a href="https://www.linkedin.com/in/hina-nisar-a515492b5">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="mailto:hinanisar7860@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
+ <a href="mailto:hinanisar7860@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
+</a>
 </p>
 <br>
 
