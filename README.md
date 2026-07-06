@@ -53,7 +53,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=1e293b&title_color=75C310&icon_color=75C310&text_color=e5e4e2" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=dark&hide_border=true&background=1e293b&stroke=75C310&ring=75C310&fire=75C310&currStreakLabel=75C310" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HINANISARGITHUB&theme=dark&hide_border=true&background=1e293b&stroke=75C310&ring=75C310&fire=75C310&currStreakLabel=75C310" width="48%" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=dark&hide_border=true&bg_color=1e293b&title_color=75C310&text_color=e5e4e2" width="48%" alt="Top Languages"/>
