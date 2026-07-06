@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=Frontend+Developer;Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=;mern-Stack Developer,Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
 </p>
 
 <!-- ===== ABOUT SECTION WITH IMAGE TO THE RIGHT ===== -->
