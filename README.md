@@ -1,12 +1,9 @@
 <!-- ===== HEADER ===== -->
-
-
 <h1 align="center">
-  ✨ Hi, I'm <span style="color:#00AEEF;">Hina Nisar</span> ✨
+  ✨ Hi, I'm <span style="color:#75C310;">Hina Nisar</span> ✨
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=;mern-Stack Developer,Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=75C310&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+into+Real+Products" />
 </p>
 
 <!-- ===== ABOUT SECTION WITH IMAGE TO THE RIGHT ===== -->
@@ -20,9 +17,10 @@
 - 🔭 Building full-stack web apps from database to deployment
 - ⚡ Skilled in React, Node.js, Express, MongoDB, Tailwind CSS
 - 🔐 Experience with JWT authentication, REST APIs & Cloudinary
-- 🌱 Currently learning Next.js and TypeScript
-</td>
+- 🚀 Deploying production-ready apps with Vercel
+- 🌱 Currently exploring Next.js and TypeScript
 
+</td>
 <td width="40%" align="center">
  <p align="center">
   <img 
@@ -32,51 +30,44 @@
   />
 </p>
 </td>
-
 </tr>
 </table>
 <br><br>
 
 ## 🛠️ **Tech Stack**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
 </p>
 <br><br>
 
 ## 🌟 **Featured Projects**
-
 | Project | Description | Links |
 |--------|-------------|-------|
-| **🏥 Medical Website UI** | Responsive medical website using Tailwind, Flowbite & Tailblocks | Live Demo • Repo |
-| **🛒 Ecommerce UI** | Product grid + smooth animations | Live Demo • Repo |
-| **🎬 Movie Explorer** | React movie search app | Live Demo • Repo |
+| **🛍️ Aura Scarves** | Full-stack e-commerce platform with product management, cart & checkout (MERN + Cloudinary + JWT) | [Live Demo](https://aura-scarves-frontend.vercel.app) • Repo |
+| **📋 Orbit Task** | Trello-inspired project management SaaS with drag-and-drop boards (MERN + JWT + Cloudinary) | Live Demo • Repo |
+| **📝 Blog App** | Full-stack blogging platform with image uploads (MERN + Cloudinary + Multer) | [Live Demo](https://blog-app-restoration-hope-frontend.vercel.app) • Repo |
+| **📄 Resume Builder** | Dynamic resume generator with live preview (React + Firebase) | [Live Demo](https://resume-generator-nine-ivory.vercel.app) • Repo |
+| **💬 Chat App** | Real-time chat application (React + Firebase) | [Live Demo](https://chat-app-gilt-seven-64.vercel.app) • Repo |
 
 <!-- ==== STATS SECTION WITH BETTER ALIGNMENT ==== -->
 <br>
 <p align="center">
-  <img src="./assests/statsImage1.gif" width="48%" height="190" alt="GitHub Stats" />
-  <img src="./assests/stats-2.gif" width="48%" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=1e293b&title_color=75C310&icon_color=75C310&text_color=e5e4e2" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HINANISARGITHUB&theme=dark&hide_border=true&background=1e293b&stroke=75C310&ring=75C310&fire=75C310&currStreakLabel=75C310" width="48%" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="./assests/topLanguage.png" width="48%" height="190" style="border-radius:15px;"/>
-  <img src="./assests/codegif-image.gif" width="48%" height="190" alt="GitHub Code GIF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=dark&hide_border=true&bg_color=1e293b&title_color=75C310&text_color=e5e4e2" width="48%" alt="Top Languages"/>
 </p>
-
 <br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" 
        width="620" 
-       height="520" 
-       alt="snake-2" />
+       height="200" 
+       alt="snake-animation" />
 </p>
-
 <br>
 
 ## 🤝 **Connect With Me**
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hina-nisar-a515492b5">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
@@ -85,11 +76,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
-
 <br>
-<p align="center">
-  <img src="assests/topHero-image.gif" width="500"/>
-</p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
 
