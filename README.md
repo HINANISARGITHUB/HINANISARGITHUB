@@ -50,15 +50,7 @@
 | **💬 Chat App** | Real-time chat application (React + Firebase) | [Live Demo](https://chat-app-gilt-seven-64.vercel.app) • Repo |
 
 <!-- ==== STATS SECTION WITH BETTER ALIGNMENT ==== -->
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HINANISARGITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=1e293b&title_color=75C310&icon_color=75C310&text_color=e5e4e2" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=HINANISARGITHUB&theme=dark&hide_border=true&background=1e293b&stroke=75C310&ring=75C310&fire=75C310&currStreakLabel=75C310" width="48%" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINANISARGITHUB&layout=compact&theme=dark&hide_border=true&bg_color=1e293b&title_color=75C310&text_color=e5e4e2" width="48%" alt="Top Languages"/>
-</p>
-<br>
+<br> <p align="center"> <img src="./assests/statsImage1.gif" width="48%" height="190" alt="GitHub Stats" /> <img src="./assests/stats-2.gif" width="48%" height="190" alt="GitHub Stats" /> </p> <p align="center"> <img src="./assests/topLanguage.png" width="48%" height="190" style="border-radius:15px;"/> <img src="./assests/codegif-image.gif" width="48%" height="190" alt="GitHub Code GIF" /> </p> <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" 
        width="620" 
