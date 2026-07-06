@@ -16,13 +16,12 @@
 <br>
 
 ## 🚀 **About Me**
-
-- 💙 Passionate **Mern-Stack Developer**  
-- 🎨 Love building **modern, clean & responsive UI**  
-- ⚡ Skilled in **React, Next.js, Tailwind, Flowbite**  
-- 📱 Focused on **pixel-perfect design**  
-- 🌟 Creative vision + strong aesthetic sense  
-
+## 🚀 About Me
+- 💚 MERN Stack Developer — MongoDB, Express, React & Node.js
+- 🔭 Building full-stack web apps from database to deployment
+- ⚡ Skilled in React, Node.js, Express, MongoDB, Tailwind CSS
+- 🔐 Experience with JWT authentication, REST APIs & Cloudinary
+- 🌱 Currently learning Next.js and TypeScript
 </td>
 
 <td width="40%" align="center">
