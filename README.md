@@ -16,7 +16,6 @@
 <br>
 
 ## 🚀 **About Me**
-## 🚀 About Me
 - 💚 MERN Stack Developer — MongoDB, Express, React & Node.js
 - 🔭 Building full-stack web apps from database to deployment
 - ⚡ Skilled in React, Node.js, Express, MongoDB, Tailwind CSS
