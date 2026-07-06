@@ -17,7 +17,7 @@
 
 ## 🚀 **About Me**
 
-- 💙 Passionate **Frontend Developer**  
+- 💙 Passionate **Mern-Stack Developer**  
 - 🎨 Love building **modern, clean & responsive UI**  
 - ⚡ Skilled in **React, Next.js, Tailwind, Flowbite**  
 - 📱 Focused on **pixel-perfect design**  
