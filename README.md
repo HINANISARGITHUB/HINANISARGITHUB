@@ -3,7 +3,7 @@
   ✨ Hi, I'm <span style="color:#75C310;">Hina Nisar</span> ✨
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=75C310&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=75C310&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+into+Real+Products" />
 </p>
 
 <!-- ===== ABOUT SECTION WITH IMAGE TO THE RIGHT ===== -->
